@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">Desarrollador Frontend</h3>
+<h3 align="center">Frontend developer</h3>
 
-- 🔭 Esty trabajando en **Proyecto Final Coderhouse**
+- I'm currently working on **Task-Flow**
 
-- 🌱Estoy constantemente aprendiendo **HTML, CSS, SASS, BOOSTRAP.**
+- I’m currently improving in **Frontend Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
