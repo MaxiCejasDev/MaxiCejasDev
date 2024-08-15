@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
 <h3 align="center">Frontend developer</h3>
 
-- I'm currently working on **Task-Flow**
+- I'm currently working on **Opus-AI**
 
 - I’m currently improving in **Frontend Skills**
 
